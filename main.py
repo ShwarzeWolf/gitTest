@@ -1,2 +1,2 @@
 print("hello")
-print("new feature implemented")
+print("new feature implemented!")
